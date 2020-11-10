@@ -8,8 +8,8 @@ On the payment page, it displays their list of items like before with a section 
 
 Once the card information is typed in and the user clicks 'Buy Now', their payment will be processed and the user will be taken to the orders page where their purchase will be displayed like an invoice.
 
-![](https://github.com/MarkMadness/FrontEnd/blob/master/amazonclone/showcase/showcase1.jpg)
-![](https://github.com/MarkMadness/FrontEnd/blob/master/amazonclone/showcase/showcase2.jpg)
+![](https://github.com/MarkMadness/AmazonClone-react/blob/main/showcase/showcase1.jpg)
+![](https://github.com/MarkMadness/AmazonClone-react/blob/main/showcase/showcase2.jpg)
 
 ## Home and Header Components
 
@@ -17,18 +17,18 @@ The Header component will be present on almost every page of this application so
 
 The Home component has a background of a typical amazon design image with a linear fade downwards towards the Product components displaying the items available for purchase. Each Product component has its own input on title, rating, image, and come with an 'Add to Basket' button which triggers a backend function with firebase to add them to a data layer for the basket.
 
-![](https://github.com/MarkMadness/FrontEnd/blob/master/amazonclone/showcase/showcase6.jpg)
+![](https://github.com/MarkMadness/AmazonClone-react/blob/main/showcase/showcase6.jpg)
 
 The SignIn Component uses user authentication from react and firebase for the user to first create an account with an email and password. Once they do, they will return back to the homepage with the Sign In button on the header changed to say "Hello, 'user email'".
 
 ## Checkout and CheckoutProduct Components
 
-![](https://github.com/MarkMadness/FrontEnd/blob/master/amazonclone/showcase/showcase3.jpg)
+![](https://github.com/MarkMadness/AmazonClone-react/blob/main/showcase/showcase3.jpg)
 
 ## Payment Component
 
-![](https://github.com/MarkMadness/FrontEnd/blob/master/amazonclone/showcase/showcase4.jpg)
+![](https://github.com/MarkMadness/AmazonClone-react/blob/main/showcase/showcase4.jpg)
 
 ## Order Component
 
-![](https://github.com/MarkMadness/FrontEnd/blob/master/amazonclone/showcase/showcase5.jpg)
+![](https://github.com/MarkMadness/AmazonClone-react/blob/main/showcase/showcase5.jpg)
